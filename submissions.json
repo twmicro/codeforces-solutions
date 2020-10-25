@@ -1835,6 +1835,22 @@
     ],
     "timestamp": "Feb/01/2021 18:37"
   },
+  "CF96727083": {
+    "contest_id": 1223,
+    "language": "Kotlin",
+    "path": "codeforces/1223/A.kt",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "CME",
+    "problem_url": "https://codeforces.com/contest/1223/problem/A",
+    "submission_id": "CF96727083",
+    "submission_url": "https://codeforces.com/contest/1223/submission/96727083",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/25/2020 22:31"
+  },
   "CF96788859": {
     "contest_id": 1223,
     "language": "Kotlin",
