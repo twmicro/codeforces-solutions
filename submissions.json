@@ -1835,6 +1835,22 @@
     ],
     "timestamp": "Feb/01/2021 18:37"
   },
+  "CF96788859": {
+    "contest_id": 1223,
+    "language": "Kotlin",
+    "path": "codeforces/1223/B.kt",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Strings Equalization",
+    "problem_url": "https://codeforces.com/contest/1223/problem/B",
+    "submission_id": "CF96788859",
+    "submission_url": "https://codeforces.com/contest/1223/submission/96788859",
+    "tags": [
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Oct/26/2020 17:50"
+  },
   "CF96833880": {
     "contest_id": 1433,
     "language": "Kotlin",
