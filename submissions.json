@@ -1835,6 +1835,23 @@
     ],
     "timestamp": "Feb/01/2021 18:37"
   },
+  "CF96833880": {
+    "contest_id": 1433,
+    "language": "Kotlin",
+    "path": "codeforces/1433/E.kt",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Two Round Dances",
+    "problem_url": "https://codeforces.com/contest/1433/problem/E",
+    "submission_id": "CF96833880",
+    "submission_url": "https://codeforces.com/contest/1433/submission/96833880",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Oct/27/2020 10:15"
+  },
   "CF96931291": {
     "contest_id": 1433,
     "language": "Kotlin",
