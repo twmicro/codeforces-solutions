@@ -1835,6 +1835,23 @@
     ],
     "timestamp": "Feb/01/2021 18:37"
   },
+  "CF97378725": {
+    "contest_id": 1445,
+    "language": "Kotlin",
+    "path": "codeforces/1445/A.kt",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Array Rearrangment",
+    "problem_url": "https://codeforces.com/contest/1445/problem/A",
+    "submission_id": "CF97378725",
+    "submission_url": "https://codeforces.com/contest/1445/submission/97378725",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Nov/01/2020 21:14"
+  },
   "CF97715949": {
     "contest_id": 1432,
     "language": "Kotlin",
