@@ -1835,6 +1835,22 @@
     ],
     "timestamp": "Feb/01/2021 18:37"
   },
+  "CF99250822": {
+    "contest_id": 1030,
+    "language": "Kotlin",
+    "path": "codeforces/1030/A.kt",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "In Search of an Easy Problem",
+    "problem_url": "https://codeforces.com/contest/1030/problem/A",
+    "submission_id": "CF99250822",
+    "submission_url": "https://codeforces.com/contest/1030/submission/99250822",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/22/2020 15:26"
+  },
   "CF99417466": {
     "contest_id": 1454,
     "language": "Kotlin",
