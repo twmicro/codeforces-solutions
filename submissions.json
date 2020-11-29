@@ -1834,5 +1834,22 @@
       "*1400"
     ],
     "timestamp": "Feb/01/2021 18:37"
+  },
+  "CF99925529": {
+    "contest_id": 1440,
+    "language": "Kotlin",
+    "path": "codeforces/1440/A.kt",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Buy the String",
+    "problem_url": "https://codeforces.com/contest/1440/problem/A",
+    "submission_id": "CF99925529",
+    "submission_url": "https://codeforces.com/contest/1440/submission/99925529",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/29/2020 19:31"
   }
 }
