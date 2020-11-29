@@ -1835,6 +1835,23 @@
     ],
     "timestamp": "Feb/01/2021 18:37"
   },
+  "CF99859372": {
+    "contest_id": 1415,
+    "language": ".NET Core C#",
+    "path": "codeforces/1415/A.cs",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Prison Break",
+    "problem_url": "https://codeforces.com/contest/1415/problem/A",
+    "submission_id": "CF99859372",
+    "submission_url": "https://codeforces.com/contest/1415/submission/99859372",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/29/2020 10:41"
+  },
   "CF99925529": {
     "contest_id": 1440,
     "language": "Kotlin",
