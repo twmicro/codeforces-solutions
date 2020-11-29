@@ -1835,6 +1835,23 @@
     ],
     "timestamp": "Feb/01/2021 18:37"
   },
+  "CF99839288": {
+    "contest_id": 1426,
+    "language": ".NET Core C#",
+    "path": "codeforces/1426/A.cs",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Floor Number",
+    "problem_url": "https://codeforces.com/contest/1426/problem/A",
+    "submission_id": "CF99839288",
+    "submission_url": "https://codeforces.com/contest/1426/submission/99839288",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/29/2020 10:00"
+  },
   "CF99859372": {
     "contest_id": 1415,
     "language": ".NET Core C#",
