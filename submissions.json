@@ -1,4 +1,21 @@
 {
+  "CF100197481": {
+    "contest_id": 1438,
+    "language": "Kotlin",
+    "path": "codeforces/1438/A.kt",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Specific Tastes of Andre ",
+    "problem_url": "https://codeforces.com/contest/1438/problem/A",
+    "submission_id": "CF100197481",
+    "submission_url": "https://codeforces.com/contest/1438/submission/100197481",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Dec/02/2020 17:13"
+  },
   "CF100297464": {
     "contest_id": 1433,
     "language": "GNU C++11",
