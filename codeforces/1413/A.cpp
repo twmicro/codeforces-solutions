@@ -1,16 +1,26 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <algorithm>
+#include <vector>
 using namespace std;
 
-int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    int t; cin >> t;
-    while(t--) {
-        int n; cin >> n;
-        for(int i = 0; i < n / 2; i++) { 
-            int a, b; cin >> a >> b;
-            cout << -b << " " << a << (i == n - 1 ? "\n" : " ");
-        }
+void run_case() {
+    int n; cin >> n;
+    vector<int> a;
+    for(int i = 0; i < n; i++) { 
+        int ai; cin >> ai;
+        a.push_back(ai);
     }
+
+    for(int i = 1; i < n; i += 2) {
+        cout << -a[i] << " ";
+        cout << a[i - 1];
+        if (i == n - 1) cout << endl;
+        else cout << " ";
+    }
+}
+
+int main() {
+    int t; cin >> t;
+    while(t--) run_case();
     return 0;
 }
