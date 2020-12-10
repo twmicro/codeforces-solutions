@@ -1,4 +1,22 @@
 {
+  "CF100859138": {
+    "contest_id": 1415,
+    "language": "GNU C++17",
+    "path": "codeforces/1415/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Repainting Street",
+    "problem_url": "https://codeforces.com/contest/1415/problem/B",
+    "submission_id": "CF100859138",
+    "submission_url": "https://codeforces.com/contest/1415/submission/100859138",
+    "tags": [
+      "brute force",
+      "brute force",
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Dec/10/2020 21:33"
+  },
   "CF100859156": {
     "contest_id": 1415,
     "language": "GNU C++17",
