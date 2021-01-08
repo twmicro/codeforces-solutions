@@ -1,4 +1,23 @@
 {
+  "CF103820861": {
+    "contest_id": 910,
+    "language": "GNU C++17",
+    "path": "codeforces/910/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The Way to Home",
+    "problem_url": "https://codeforces.com/contest/910/problem/A",
+    "submission_id": "CF103820861",
+    "submission_url": "https://codeforces.com/contest/910/submission/103820861",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/08/2021 21:29"
+  },
   "CF103888850": {
     "contest_id": 862,
     "language": "GNU C++17",
