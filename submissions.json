@@ -1,4 +1,20 @@
 {
+  "CF104747328": {
+    "contest_id": 171,
+    "language": "GNU C++17",
+    "path": "codeforces/171/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "MYSTERIOUS LANGUAGE",
+    "problem_url": "https://codeforces.com/contest/171/problem/E",
+    "submission_id": "CF104747328",
+    "submission_url": "https://codeforces.com/contest/171/submission/104747328",
+    "tags": [
+      "*special problem",
+      "*2000"
+    ],
+    "timestamp": "Jan/19/2021 11:07"
+  },
   "CF104786465": {
     "contest_id": 1474,
     "language": "GNU C++17",
