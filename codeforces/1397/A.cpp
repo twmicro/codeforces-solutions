@@ -77,7 +77,7 @@ void bubble_sort(vi *a) {
 bool binary_search(vi a, int v) {
     int l = 0, r = a.size() - 1, m = (l + r) / 2;
     while(l <= r) {
-        if(a[m] == v) return false;
+        if(a[m] == v) return true;
         if(a[m] > v) r = m - 1;
         else l = m + 1;
         m = (l + r) / 2;
