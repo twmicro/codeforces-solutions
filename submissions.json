@@ -1,4 +1,21 @@
 {
+  "CF105250900": {
+    "contest_id": 47,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/47/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Triangular numbers",
+    "problem_url": "https://codeforces.com/contest/47/problem/A",
+    "submission_id": "CF105250900",
+    "submission_url": "https://codeforces.com/contest/47/submission/105250900",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/24/2021 22:48"
+  },
   "CF105251229": {
     "contest_id": 110,
     "language": "GNU C++17 (64)",
