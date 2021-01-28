@@ -1,4 +1,20 @@
 {
+  "CF105782099": {
+    "contest_id": 56,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/56/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bar",
+    "problem_url": "https://codeforces.com/contest/56/problem/A",
+    "submission_id": "CF105782099",
+    "submission_url": "https://codeforces.com/contest/56/submission/105782099",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jan/28/2021 22:25"
+  },
   "CF105844269": {
     "contest_id": 263,
     "language": "GNU C++17 (64)",
