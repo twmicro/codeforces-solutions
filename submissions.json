@@ -1,4 +1,20 @@
 {
+  "CF105781543": {
+    "contest_id": 56,
+    "language": "GNU C++17 (64)",
+    "path": "codeforces/56/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Spoilt Permutation",
+    "problem_url": "https://codeforces.com/contest/56/problem/B",
+    "submission_id": "CF105781543",
+    "submission_url": "https://codeforces.com/contest/56/submission/105781543",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jan/28/2021 22:17"
+  },
   "CF105782099": {
     "contest_id": 56,
     "language": "GNU C++17 (64)",
