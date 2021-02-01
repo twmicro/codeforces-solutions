@@ -5,10 +5,11 @@ Submissions
 ## Introduction
 
 A repository to keep track of problem solving practice, containing solutions from platforms:
-{profile_placeholder}
+* Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/UpAndDown.svg)](https://codeforces.com/profile/UpAndDown)
+
 
 ## Contents
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-{submission_placeholder}
+1 | [A - Bear and Prime 100](https://codeforces.com/contest/679/problem/A) | [GNU C++17 (64)](./codeforces/679/A.cpp) | `constructive algorithms` `interactive` `math` `*1400` | Feb/01/2021 18:37 | 
