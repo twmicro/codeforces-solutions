@@ -12,19 +12,20 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-130 | [C - Guess the Array](https://codeforces.com/contest/727/problem/C) | [GNU C++17](./codeforces/727/C.cpp) | `constructive algorithms` `interactive` `math` `*1400` | Feb/08/2021 22:39 | 
-129 | [B - The Great Hero](https://codeforces.com/contest/1480/problem/B) | [GNU C++17](./codeforces/1480/B.cpp) | `greedy` `implementation` `sortings` | Feb/07/2021 18:12 | 
-128 | [A - Yet Another String Game](https://codeforces.com/contest/1480/problem/A) | [GNU C++17](./codeforces/1480/A.cpp) | `games` `greedy` `strings` | Feb/07/2021 17:40 | 
-127 | [B - New Colony](https://codeforces.com/contest/1481/problem/B) | [GNU C++17](./codeforces/1481/B.cpp) | `brute force` `greedy` `implementation` | Feb/06/2021 09:23 | 
-126 | [A - Copy-paste](https://codeforces.com/contest/1417/problem/A) | [GNU C++17](./codeforces/1417/A.cpp) | `greedy` `math` `*800` | Feb/05/2021 22:54 | 
-125 | [A - BerOS file system](https://codeforces.com/contest/20/problem/A) | [GNU C++17](./codeforces/20/A.cpp) | `implementation` `*1700` | Feb/05/2021 22:41 | 
-124 | [C - Dijkstra?](https://codeforces.com/contest/20/problem/C) | [GNU C++17](./codeforces/20/C.cpp) | `graphs` `shortest paths` `*1900` | Feb/05/2021 22:27 | 
-123 | [A - Space Navigation ](https://codeforces.com/contest/1481/problem/A) | [GNU C++17](./codeforces/1481/A.cpp) | `greedy` `strings` | Feb/05/2021 17:54 | 
-122 | [A - Word](https://codeforces.com/contest/59/problem/A) | [GNU C++17](./codeforces/59/A.cpp) | `implementation` `strings` `*800` | Feb/05/2021 14:45 | 
-121 | [A - Beautiful Year](https://codeforces.com/contest/271/problem/A) | [GNU C++17](./codeforces/271/A.cpp) | `brute force` `*800` | Feb/05/2021 14:32 | 
-120 | [B - Borze](https://codeforces.com/contest/32/problem/B) | [GNU C++17](./codeforces/32/B.cpp) | `expression parsing` `implementation` `*800` | Feb/05/2021 14:27 | 
-119 | [B - Queue at the School](https://codeforces.com/contest/266/problem/B) | [GNU C++17](./codeforces/266/B.cpp) | `constructive algorithms` `graph matchings` `implementation` `shortest paths` `*800` | Feb/05/2021 14:22 | 
-118 | [A - Young Physicist](https://codeforces.com/contest/69/problem/A) | [GNU C++17](./codeforces/69/A.cpp) | `implementation` `math` `*1000` | Feb/05/2021 12:13 | 
+131 | [C - Guess the Array](https://codeforces.com/contest/727/problem/C) | [GNU C++17](./codeforces/727/C.cpp) | `constructive algorithms` `interactive` `math` `*1400` | Feb/08/2021 22:39 | 
+130 | [B - The Great Hero](https://codeforces.com/contest/1480/problem/B) | [GNU C++17](./codeforces/1480/B.cpp) | `greedy` `implementation` `sortings` | Feb/07/2021 18:12 | 
+129 | [A - Yet Another String Game](https://codeforces.com/contest/1480/problem/A) | [GNU C++17](./codeforces/1480/A.cpp) | `games` `greedy` `strings` | Feb/07/2021 17:40 | 
+128 | [B - New Colony](https://codeforces.com/contest/1481/problem/B) | [GNU C++17](./codeforces/1481/B.cpp) | `brute force` `greedy` `implementation` | Feb/06/2021 09:23 | 
+127 | [A - Copy-paste](https://codeforces.com/contest/1417/problem/A) | [GNU C++17](./codeforces/1417/A.cpp) | `greedy` `math` `*800` | Feb/05/2021 22:54 | 
+126 | [A - BerOS file system](https://codeforces.com/contest/20/problem/A) | [GNU C++17](./codeforces/20/A.cpp) | `implementation` `*1700` | Feb/05/2021 22:41 | 
+125 | [C - Dijkstra?](https://codeforces.com/contest/20/problem/C) | [GNU C++17](./codeforces/20/C.cpp) | `graphs` `shortest paths` `*1900` | Feb/05/2021 22:27 | 
+124 | [A - Space Navigation ](https://codeforces.com/contest/1481/problem/A) | [GNU C++17](./codeforces/1481/A.cpp) | `greedy` `strings` | Feb/05/2021 17:54 | 
+123 | [A - Word](https://codeforces.com/contest/59/problem/A) | [GNU C++17](./codeforces/59/A.cpp) | `implementation` `strings` `*800` | Feb/05/2021 14:45 | 
+122 | [A - Beautiful Year](https://codeforces.com/contest/271/problem/A) | [GNU C++17](./codeforces/271/A.cpp) | `brute force` `*800` | Feb/05/2021 14:32 | 
+121 | [B - Borze](https://codeforces.com/contest/32/problem/B) | [GNU C++17](./codeforces/32/B.cpp) | `expression parsing` `implementation` `*800` | Feb/05/2021 14:27 | 
+120 | [B - Queue at the School](https://codeforces.com/contest/266/problem/B) | [GNU C++17](./codeforces/266/B.cpp) | `constructive algorithms` `graph matchings` `implementation` `shortest paths` `*800` | Feb/05/2021 14:22 | 
+119 | [A - Young Physicist](https://codeforces.com/contest/69/problem/A) | [GNU C++17](./codeforces/69/A.cpp) | `implementation` `math` `*1000` | Feb/05/2021 12:13 | 
+118 | [A - Bad Ugly Numbers](https://codeforces.com/contest/1326/problem/A) | [GNU C++17](./codeforces/1326/A.cpp) | `constructive algorithms` `number theory` `*1000` | Feb/04/2021 15:17 | 
 117 | [A - Bear and Prime 100](https://codeforces.com/contest/679/problem/A) | [GNU C++17 (64)](./codeforces/679/A.cpp) | `constructive algorithms` `interactive` `math` `*1400` | Feb/01/2021 18:37 | 
 116 | [A - Helpful Maths](https://codeforces.com/contest/339/problem/A) | [GNU C++17 (64)](./codeforces/339/A.cpp) | `greedy` `implementation` `sortings` `strings` `*800` | Jan/31/2021 22:25 | 
 115 | [A - Sereja and Dima](https://codeforces.com/contest/381/problem/A) | [GNU C++17 (64)](./codeforces/381/A.cpp) | `greedy` `implementation` `two pointers` `*800` | Jan/31/2021 22:01 | 
