@@ -1835,6 +1835,22 @@
     ],
     "timestamp": "Feb/01/2021 18:37"
   },
+  "CF106623538": {
+    "contest_id": 20,
+    "language": "GNU C++17",
+    "path": "codeforces/20/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "BerOS file system",
+    "problem_url": "https://codeforces.com/contest/20/problem/A",
+    "submission_id": "CF106623538",
+    "submission_url": "https://codeforces.com/contest/20/submission/106623538",
+    "tags": [
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Feb/05/2021 22:41"
+  },
   "CF106624336": {
     "contest_id": 1417,
     "language": "GNU C++17",
