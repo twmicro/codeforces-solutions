@@ -1835,6 +1835,41 @@
     ],
     "timestamp": "Feb/01/2021 18:37"
   },
+  "CF106780677": {
+    "contest_id": 1480,
+    "language": "GNU C++17",
+    "path": "codeforces/1480/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Great Hero",
+    "problem_url": "https://codeforces.com/contest/1480/problem/B",
+    "submission_id": "CF106780677",
+    "submission_url": "https://codeforces.com/contest/1480/submission/106780677",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings"
+    ],
+    "timestamp": "Feb/07/2021 18:12"
+  },
+  "CF106936297": {
+    "contest_id": 727,
+    "language": "GNU C++17",
+    "path": "codeforces/727/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Guess the Array",
+    "problem_url": "https://codeforces.com/contest/727/problem/C",
+    "submission_id": "CF106936297",
+    "submission_url": "https://codeforces.com/contest/727/submission/106936297",
+    "tags": [
+      "constructive algorithms",
+      "interactive",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Feb/08/2021 22:39"
+  },
   "CF96727083": {
     "contest_id": 1223,
     "language": "Kotlin",
