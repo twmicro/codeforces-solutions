@@ -2090,6 +2090,24 @@
     ],
     "timestamp": "Feb/08/2021 22:39"
   },
+  "CF107138843": {
+    "contest_id": 1343,
+    "language": "GNU C++17",
+    "path": "codeforces/1343/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Alternating Subsequence",
+    "problem_url": "https://codeforces.com/contest/1343/problem/C",
+    "submission_id": "CF107138843",
+    "submission_url": "https://codeforces.com/contest/1343/submission/107138843",
+    "tags": [
+      "dp",
+      "greedy",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Feb/11/2021 19:14"
+  },
   "CF107144080": {
     "contest_id": 1352,
     "language": "GNU C++17",
