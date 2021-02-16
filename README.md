@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-134 | [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | [GNU C++17 (64)](./codeforces/1490/D.cpp) | `dfs and similar` `divide and conquer` `implementation` | Feb/16/2021 19:25 | 
-133 | [C - Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | [GNU C++17 (64)](./codeforces/1490/C.cpp) | `binary search` `brute force` `brute force` `math` | Feb/16/2021 18:33 | 
+135 | [D - Permutation Transformation](https://codeforces.com/contest/1490/problem/D) | [GNU C++17 (64)](./codeforces/1490/D.cpp) | `dfs and similar` `divide and conquer` `implementation` | Feb/16/2021 19:25 | 
+134 | [C - Sum of Cubes](https://codeforces.com/contest/1490/problem/C) | [GNU C++17 (64)](./codeforces/1490/C.cpp) | `binary search` `brute force` `brute force` `math` | Feb/16/2021 18:33 | 
+133 | [B - Balanced Remainders](https://codeforces.com/contest/1490/problem/B) | [GNU C++17 (64)](./codeforces/1490/B.cpp) | `brute force` `constructive algorithms` `math` | Feb/16/2021 18:15 | 
 132 | [C - Guess the Array](https://codeforces.com/contest/727/problem/C) | [GNU C++17](./codeforces/727/C.cpp) | `constructive algorithms` `interactive` `math` `*1400` | Feb/08/2021 22:39 | 
 131 | [B - The Great Hero](https://codeforces.com/contest/1480/problem/B) | [GNU C++17](./codeforces/1480/B.cpp) | `greedy` `implementation` `sortings` | Feb/07/2021 18:12 | 
 130 | [A - Yet Another String Game](https://codeforces.com/contest/1480/problem/A) | [GNU C++17](./codeforces/1480/A.cpp) | `games` `greedy` `strings` | Feb/07/2021 17:40 | 
